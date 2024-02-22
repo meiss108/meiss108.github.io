@@ -1,9 +1,9 @@
-title: Rishabh Agarwal # your name (or website title) here
-logo: "/images/my_pic.JPG?raw=true" # your photo (or logo) here
+title: Alex Meissen # your name (or website title) here
+logo: "/Users/alexmeissen/Desktop/CB248442-F602-4248-824C-356DD5E2C6AC_1_201_a.jpeg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Aspiring software engineer looking for enhanced real-world experience. Has experience with data-oriented programming, computational architecture, and machine learning and is eager to learn more through an internship
+  Aspiring software engineer looking for enhanced real-world experience. Has experience with data-oriented programming, computational architecture, and data structures and algorithms and is eager to learn more through an internship
   <br><br>
-  <a href="https://www.linkedin.com/in/rishabh-agarwal-a5b78121b">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/alexander-meissen-6a5306260/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
